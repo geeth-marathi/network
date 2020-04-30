@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# OS Essentials
+echo "Installing - OS Essentials"
+apt install -y build-essential
+
+# Code
+apt install -y vim git
